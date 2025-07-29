@@ -1,0 +1,59 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.ap_
+*.dex
+
+# Android Studio
+.gradle/
+.idea/
+*.hprof
+.cxx/
+*.log
+captures/
+.externalNativeBuild/
+build/
+navigation.json
+
+# Keystore files
+*.jks
+*.keystore
+*.pem
+*.key
+
+# Signing config
+signing.properties
+
+# Crashlytics / Firebase
+firebase/
+fabric.properties
+crashlytics.properties
+
+# OS generated
+Thumbs.db
+
+# Jetpack Compose
+compose-metrics/
+compose-traces/
+
+# Git
+*.swp
+*~
